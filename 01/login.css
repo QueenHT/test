@@ -1,0 +1,176 @@
+body{
+  background-color: 	#F8F8FF;
+  padding: 0;
+  margin: 0;
+  font-family: inherit;
+}
+#n1{
+  width: 100%;
+  height: 80px;
+  border:1px solid #ccc;
+  background: #fff;
+}
+#n1 img{
+  width:200px;
+  height: 100%;
+  float: left;
+  margin-left: -25px;
+}
+#u1{
+  float: right;
+  margin-right: 8%;
+}
+#u1 li{
+  display: inline-block;
+    margin: 8px;
+  text-align: center;
+  font-size: 13px;
+
+}
+.a1{
+  text-decoration: none;
+  color: red;
+}
+.a2{
+  text-decoration: none;
+  color: blue;
+}
+#d2{
+  width: 970px;
+  height: 380px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  float: right;
+  margin-right: 16%;
+  margin-top:3%;
+  background: #fff;
+}
+#d3{
+  float: left;
+  margin-left: 0;
+  width: 52%;
+  height: 99.5%;
+}
+#d3 img{
+  width: 99.5%;
+  height: 99.5%;
+}
+#d4{
+  float: right;
+  margin-right:0;
+  width: 44%;
+
+}
+#qw1{
+  margin-left: 10px;
+  color: red;
+
+}
+table{
+  width: 94%;
+  height: 99.5%;
+padding: 28px;
+margin-top:20px;
+}
+
+#td1{
+  font-size: 15px;
+  font-weight: bold;
+  text-align: left;
+  padding-bottom: 15px;
+
+}
+#td2{
+  font-size: 12px;
+  text-align: right;
+color: blue;
+padding-bottom: 15px;
+}
+#logo1{
+  width: 38px;
+  height:35px;
+margin-top: 12px;
+}
+#logo2{
+  width: 42px;
+  height:35px;
+margin-top: 12px;
+}
+#pwd{
+border: none;
+font-size: 20px;
+margin-left: 3%;
+background-color: transparent;
+}
+#username{
+border: none;
+font-size: 20px;
+margin-left: 3%;
+background-color: transparent;
+}
+::-webkit-input-placeholder{
+  */WebKit br owsers*/
+  font-family: inherit;
+  font-weight:lighter;
+  color: #E8CCFF;
+  font-size: 15px;
+}
+:-moz-placeholder{
+  Mozilla Firefox 4 to 18*/
+  font-family: inherit;
+  font-weight:lighter;
+  color: #E8CCFF;
+}
+#che{
+  text-align: left;
+  font-size: 12px;
+  padding: 15px;
+  padding-bottom: 20px;
+  padding-top:10px;
+}
+
+
+#tdd{
+  font-size: 12px;
+  text-align: right;
+    padding: 15px;
+    padding-bottom: 20px;
+    padding-top:10px;
+    color: red;
+}
+#tdd:hover{
+  cursor: pointer;
+}
+.btn1{
+  height: 40px;
+  text-align: center;
+  }
+#btn{
+  width: 100%;
+  float: bottom;
+  height: 100%;
+  background: red;
+  color: #fff;
+  border: none;
+  font-size: 15px;
+
+}
+#d1{
+  width: 300px;height: 200px;
+  background-image: url(../image/sp8.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+position: fixed;right: 20px;bottom: -200px;transition: all 0.5s;}
+#d1 span{
+  position: absolute;top: 0; right:0;border: 1px solid #000;
+  padding:  6px 12px;
+}
+#ts1{
+    float: right;
+  margin-right: 25%;
+  margin-top: 0px;
+    height: 20px;
+  font-size: 15px;
+  background:#FFFACD ;
+
+}

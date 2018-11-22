@@ -1,0 +1,92 @@
+body{
+  background-color: 	#F8F8FF;
+  padding: 0;
+  margin: 0;
+  font-family: inherit;
+
+}
+#n1{
+  width: 100%;
+  height: 80px;
+  border:1px solid #ccc;
+  background: #fff;
+}
+#n1 img{
+  width:200px;
+  height: 100%;
+  float: left;
+  margin-left: -25px;
+}
+#u1{
+  float: right;
+  margin-right: 8%;
+}
+#u1 li{
+  display: inline-block;
+    margin: 8px;
+  text-align: center;
+  font-size: 13px;
+}
+.dd1{
+  float: left;
+  margin-left: 0;
+  width: 800px;
+  float: right;
+  margin-right: 15%;
+}
+
+ table tr td:first-child{
+  width:70px;
+  text-align: right;
+  padding-right: 8px;
+}
+table tr td:last-child{
+
+ text-align: left;
+ padding-left: 8px;
+ font-size: 13px;
+}
+table tr td:nth-child(2){
+ width:300px;
+ text-align: left;
+}
+.fr input{
+  padding: 8px;
+  width:280px;
+  height: 35px;
+  background-color: transparent;
+  border: 1px solid black;
+  border-radius: 4%;
+  margin-top: 15px;
+}
+.span1{
+  color: red;
+}
+#btn{
+  width: 100%;
+  height: 40px;
+  background: red;
+  color: #fff;
+  border: none;
+  margin-top: 15px;
+
+}
+#dx1 input{
+  width:40px;
+  height: 15px;
+}
+#yz{
+  width:160px;
+}
+#ss3{
+  width: 120px;
+  height: 100px;
+  background: black;
+  color: #fff;
+  font-size: 20px;
+  padding: 3px 5px;
+  margin: 20px;
+}
+.dh1{
+  background-image: url(../image/dh2.jpg);
+}
